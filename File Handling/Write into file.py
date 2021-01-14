@@ -1,0 +1,7 @@
+myfile = open("Hello.txt","w")
+myfile.write("Hey Anu !!!\n")
+myfile.write("Hey Anurag !!!\n")
+#myfile = open("Hello.txt")
+#content = myfile.read()
+#print(content)
+myfile.close()
